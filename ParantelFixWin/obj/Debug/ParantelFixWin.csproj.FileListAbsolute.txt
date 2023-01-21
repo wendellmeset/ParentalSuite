@@ -1,0 +1,10 @@
+C:\Users\matti\source\repos\ParantelFixWin\bin\Debug\ParantelFixWin.exe.config
+C:\Users\matti\source\repos\ParantelFixWin\bin\Debug\ParantelFixWin.exe
+C:\Users\matti\source\repos\ParantelFixWin\bin\Debug\ParantelFixWin.pdb
+C:\Users\matti\source\repos\ParantelFixWin\obj\Debug\ParantelFixWin.csproj.AssemblyReference.cache
+C:\Users\matti\source\repos\ParantelFixWin\obj\Debug\ParantelFixWin.Properties.Resources.resources
+C:\Users\matti\source\repos\ParantelFixWin\obj\Debug\ParantelFixWin.csproj.GenerateResource.cache
+C:\Users\matti\source\repos\ParantelFixWin\obj\Debug\ParantelFixWin.csproj.CoreCompileInputs.cache
+C:\Users\matti\source\repos\ParantelFixWin\obj\Debug\ParantelFixWin.exe
+C:\Users\matti\source\repos\ParantelFixWin\obj\Debug\ParantelFixWin.pdb
+C:\Users\matti\source\repos\ParantelFixWin\obj\Debug\ParantelFixWin.ParantelFixWin.resources
